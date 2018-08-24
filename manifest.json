@@ -2,9 +2,9 @@
   "name": "Cut It",
   "version": "1.0",
   "description": "Placeholder Description",
-  "manifest_version": 2
+  "manifest_version": 2,
   "browser_action":
   {
-    "default_popup": "popup.html"
+    "default_popup": "dist/popup.html"
   }
 }
